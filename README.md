@@ -15,11 +15,22 @@
 
 ---
 
-## 🚀 Projects
-### 📌 [Telco Customer Churn – Predictive Analytics Project](https://github.com/TisilaBinteKhalilEtu/Telco-Customer-Churn-Predictive-Analytics)
-- End-to-end predictive analytics project using real-world telecom data  
-- Includes EDA, logistic regression, random forest, and business recommendations  
-- Tools: Google Colab, Python, Scikit-learn, Seaborn  
+Projects-# Telco Customer Churn Prediction
+
+This project applies predictive analytics to understand and predict customer churn behavior using the Telco Customer Churn dataset. The goal is to identify key factors that influence customer retention and to build models that help the business proactively reduce churn.
+
+---
+
+## 📌 Project Objectives
+
+- Explore and analyze the dataset to uncover patterns related to customer churn.
+- Build and evaluate predictive models (Logistic Regression and Random Forest).
+
+- ## 📊 Dataset Description
+
+- **Name**: Telco Customer Churn
+- **Source**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- **Description**: The dataset includes information about a telecom company's customers such as demographics, services signed up for, account details, and whether they have churned.
 
 ---
 

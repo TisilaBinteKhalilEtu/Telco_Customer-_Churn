@@ -1,0 +1,16 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.zip
+
+# Ignore temporary and system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python and notebook cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore environment/config files
+.env

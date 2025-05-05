@@ -30,7 +30,12 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
+## 📄 Final Report
+- [Download the Final Report[Final Report- Telco Customer Churn.pdf](https://github.com/user-attachments/files/20047967/Final.Report-.Telco.Customer.Churn.pdf)
+port (PDF)](./Final_Report_ISOM835.pdf)
+
+## 📊 Visualizations
+All EDA and model-related plots can be found in the `visualizations/` folder.
 
 ⚡ *Fun fact:* I love transforming complex data into clean, insightful stories that inform smart business decisions.
 

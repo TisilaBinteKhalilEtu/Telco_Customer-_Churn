@@ -35,7 +35,7 @@
 port (PDF)](./Final_Report_ISOM835.pdf)
 
 ## 📊 Visualizations
-All EDA and model-related plots can be found in the `visualizations/` folder.
+All EDA and model-related plots are available in the visualizations/ folder. You can also download them as a ZIP file:
 [visualizations.zip](https://github.com/user-attachments/files/20048243/visualizations.zip)
 
 ⚡ *Fun fact:* I love transforming complex data into clean, insightful stories that inform smart business decisions.
